@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+} 
+
+header {
+    background-color: black;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.list {
+    background-color: rgb(56, 53, 53);
+    height: 30px;
+}
+
+li {
+    display: inline-block;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+}
+
+.siteContent {
+    display: inline-block;
+    width: 70%;
+}
+
+.Sidebar {
+    display: inline-block;
+    background-color: grey;
+    width: 30%;
+}
+
+.welcome, .welcomeparagraph, .sbtitle, .sidebarp {
+    margin-left: 20px;
+}
+
+.footer {
+    background-color: black;
+    height: 40px;
+}
+
+.footertext {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
